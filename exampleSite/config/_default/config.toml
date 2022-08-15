@@ -1,4 +1,4 @@
-baseURL = "https://erenyildiz.com"
+baseURL = "https://erenyildiz.netlify.com"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
